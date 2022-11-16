@@ -12,3 +12,7 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course (name, img_uri, img_gray_uri ) values ('Bootcamp Html', 'https://i.ytimg.com/vi/OKZFHo5p4VA/maxresdefault.jpg', 'https://imgevents.com/wp-content/uploads/2016/04/Taste-of-Dubai.png');
+INSERT INTO tb_course (name, img_uri, img_gray_uri ) values ('Bootcamp CSS', 'https://i.ytimg.com/vi/OKZFHo5p4VA/maxresdefault.jpg', 'https://imgevents.com/wp-content/uploads/2016/04/Taste-of-Dubai.png');
+INSERT INTO tb_course (name, img_uri, img_gray_uri ) values ('Bootcamp JavaScript', 'https://i.ytimg.com/vi/OKZFHo5p4VA/maxresdefault.jpg', 'https://imgevents.com/wp-content/uploads/2016/04/Taste-of-Dubai.png');
